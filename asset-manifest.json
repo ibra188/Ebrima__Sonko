@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/github.io/Ebrima__Sonko/static/css/main.a6c33b2b.chunk.css",
+    "main.js": "/github.io/Ebrima__Sonko/static/js/main.b03c9089.chunk.js",
+    "main.js.map": "/github.io/Ebrima__Sonko/static/js/main.b03c9089.chunk.js.map",
+    "runtime-main.js": "/github.io/Ebrima__Sonko/static/js/runtime-main.597587af.js",
+    "runtime-main.js.map": "/github.io/Ebrima__Sonko/static/js/runtime-main.597587af.js.map",
+    "static/js/2.82778d66.chunk.js": "/github.io/Ebrima__Sonko/static/js/2.82778d66.chunk.js",
+    "static/js/2.82778d66.chunk.js.map": "/github.io/Ebrima__Sonko/static/js/2.82778d66.chunk.js.map",
+    "index.html": "/github.io/Ebrima__Sonko/index.html",
+    "static/css/main.a6c33b2b.chunk.css.map": "/github.io/Ebrima__Sonko/static/css/main.a6c33b2b.chunk.css.map",
+    "static/js/2.82778d66.chunk.js.LICENSE.txt": "/github.io/Ebrima__Sonko/static/js/2.82778d66.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.597587af.js",
+    "static/js/2.82778d66.chunk.js",
+    "static/css/main.a6c33b2b.chunk.css",
+    "static/js/main.b03c9089.chunk.js"
+  ]
+}
